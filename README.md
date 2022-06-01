@@ -11,4 +11,5 @@ Aquí van las especificaciones...
 
 ## Desarrollo local
 
-1. Abrir index.html en tu navegador.
+1. Abrir Live Server en tu VSC.
+2. Ver tu index.html en el navegador.
